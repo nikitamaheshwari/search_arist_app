@@ -1,0 +1,17 @@
+div {
+  text-align: center;
+}
+/* header */
+.header {
+    height: 70px;
+    background-color:#172B4D;
+}
+/* submit button */
+.wrapper {
+    margin-top:50px;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
